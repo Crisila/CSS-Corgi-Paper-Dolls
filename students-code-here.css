@@ -1,0 +1,32 @@
+/* funny glasses on fido */
+.funny-glasses {
+    position: relative;
+    left: 13.4em;
+    bottom: 6.8em;
+}
+
+/* bandana on top */
+.bandana {
+    position: absolute;
+    left: 7em;
+    bottom: 5em;
+}
+
+/* pawprint on middle of award ribbon on top of page */
+.pawprint {
+    position: fixed;
+    top: 2.8em;
+    left: 4em;
+}
+
+/* luna stay on left while scrolling */
+
+.luna {
+    position: absolute;
+    z-index: 1;
+}
+
+/* change z-indez */
+.top-hat {
+    z-index: 1;
+}
